@@ -8,4 +8,4 @@
 
 #### 4. TopoXLab, can see: https://github.com/TopoXLab
 
-#### And a curated list of Topological Data Analysis (TDA) tools and resources can be seen in: https://github.com/FatemehTarashi/awesome-tda
+### And a curated list of Topological Data Analysis (TDA) tools and resources can be seen in: https://github.com/FatemehTarashi/awesome-tda
