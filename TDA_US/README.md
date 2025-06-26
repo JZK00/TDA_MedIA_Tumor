@@ -4,10 +4,11 @@ The WT-TDA algorithm is shown as:
 ![本地图片描述](TDA.png)
 
 The BUSI and TN3K datasets used in this study can be downloaded from the Kaggle platform.
+
 BUSI: https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset
+
 TN3K: https://www.kaggle.com/datasets/tjahan/tn3k-thyroid-nodule-region-segmentation-dataset
 
-#### The work is published in CMPB 2025.
 ### 📖 Citation
 
 If you find this repo useful for your research, please consider citing our paper:
